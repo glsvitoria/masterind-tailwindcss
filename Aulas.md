@@ -13,8 +13,8 @@
 ## Sidebar
 
 [x] Configurando ESLint e Prettier
-[ ] Estrutura do Layout
-[ ] Logo e Input de Busca
+[x] Estrutura do Layout
+[x] Logo e Input de Busca
 [ ] Menu de Navegação
 [ ] Widget de Espaço Usado
 [ ] Perfil do Usuário
