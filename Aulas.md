@@ -15,10 +15,10 @@
 [x] Configurando ESLint e Prettier
 [x] Estrutura do Layout
 [x] Logo e Input de Busca
-[ ] Menu de Navegação
-[ ] Widget de Espaço Usado
-[ ] Perfil do Usuário
-[ ] Pattern de Composição
+[x] Menu de Navegação
+[x] Widget de Espaço Usado
+[x] Perfil do Usuário
+[x] Pattern de Composição
 
 ## Formulário
 
