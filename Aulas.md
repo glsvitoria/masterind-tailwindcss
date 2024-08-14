@@ -22,13 +22,13 @@
 
 ## Formulário
 
-[ ] Criando Abas com Radix Tabs
-[ ] Animação das Abas
-[ ] Estrutura do Formulário
-[ ] Upload do Avatar
-[ ] Componentizando File Input
-[ ] Context e Preview da Imagem
-[ ] Listagem de Arquivos
+[x] Criando Abas com Radix Tabs
+[x] Animação das Abas
+[x] Estrutura do Formulário
+[x] Upload do Avatar
+[x] Componentizando File Input
+[x] Context e Preview da Imagem
+[x] Listagem de Arquivos
 [ ] Criando Select de Pais
 [ ] Componentizando o Select
 [ ] Input de Biografia
