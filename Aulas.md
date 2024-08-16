@@ -29,6 +29,19 @@
 [x] Componentizando File Input
 [x] Context e Preview da Imagem
 [x] Listagem de Arquivos
-[ ] Criando Select de Pais
-[ ] Componentizando o Select
-[ ] Input de Biografia
+[x] Criando Select de Pais
+[x] Componentizando o Select
+[x] Input de Biografia
+
+## Animação e acessibilidade
+
+[ ] Animando portfólio
+[ ] Animando abertura dos Selects
+[ ] Criando efeitos de foco
+
+## Variantes e Slots API
+
+[ ] Variantes de Botões
+[ ] Variante ghost dos Botões
+[ ] Criando componente FileItem
+[ ] Variantes com slots
