@@ -39,6 +39,11 @@
 [ ] Animando abertura dos Selects
 [ ] Criando efeitos de foco
 
+focus -> É acionando toda vez que o usuário acessa aquele elemento
+focus-visible -> Apenas é acionado quando o usuário acessa aquele elemento pelo teclado
+focus-within: -> Caso um elemento interno a ele esteja com focus, é possível passar estilização para esse elemento
+Libs de animação -> https://auto-animate.formkit.com/ e https://www.framer.com/motion/
+
 ## Variantes e Slots API
 
 [ ] Variantes de Botões
