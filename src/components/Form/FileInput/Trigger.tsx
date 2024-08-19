@@ -10,9 +10,9 @@ export const Trigger = () => {
   return (
     <label
       htmlFor={id}
-      className="hover:bg-violet-25 group flex flex-1 cursor-pointer flex-col items-center gap-3 rounded-lg border border-zinc-300 px-6 py-4 text-center text-zinc-500 shadow-sm duration-300 hover:border-violet-200 hover:to-violet-500"
+      className="group flex flex-1 cursor-pointer flex-col items-center gap-3 rounded-lg border border-zinc-300 px-6 py-4 text-center text-zinc-500 shadow-sm duration-300 hover:border-violet-200 hover:bg-violet-25 hover:to-violet-500"
     >
-      <div className="border-6 rounded-full border-zinc-50 bg-zinc-100 p-2 duration-300 group-hover:border-violet-50 group-hover:bg-violet-100">
+      <div className="rounded-full border-6 border-zinc-50 bg-zinc-100 p-2 duration-300 group-hover:border-violet-50 group-hover:bg-violet-100">
         <UploadCloud className="h-5 w-5 text-zinc-600 duration-300 group-hover:to-violet-700" />
       </div>
 
